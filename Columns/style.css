@@ -1,0 +1,22 @@
+.container{
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: aqua;
+    text-align: center;
+    padding: 200px;
+    font-size: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color: deeppink;
+    align-items: right;
+    }
+
+#fuck{
+    color: ivory;
+    background-color: chartreuse;
+}
+
+p{
+    display: flex;
+}

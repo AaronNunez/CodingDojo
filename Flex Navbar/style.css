@@ -1,0 +1,28 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(46, 45, 45);
+    color: white;
+    padding-left:20px;
+}
+
+h1{
+    color: white;
+}
+
+.nav-links{
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.btn{
+    background-color: rgb(3, 183, 207);
+    color: white;
+}
